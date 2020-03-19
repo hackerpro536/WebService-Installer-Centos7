@@ -22,7 +22,7 @@ Please keep in mind that this project is licensed by [LPTech](https://lptech.asi
 Any other cases of uses not mentioned above is prohibited. If you have illegal copy of this project, please kindly to contact us for our further supporting.
 
 ## Use Guide
-`` git clone https://github.com/hackerpro536/WebService-Installer-Centos7.git ``<br>
+`` wget https://github.com/hackerpro536/WebService-Installer-Centos7/raw/master/lptech-installer ``<br>
 `` sh ./lptech-installer``<br>
 
 ## Image Uses
